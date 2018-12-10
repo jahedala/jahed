@@ -1,0 +1,3 @@
+Name	Type	Description
+Services		Starts, stops, and configures Windows services.
+WMI Control	Extension Snap-in	Configures and controls the Windows Management Instrumentation (WMI) service.
